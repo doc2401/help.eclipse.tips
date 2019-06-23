@@ -8,42 +8,42 @@
 		},
 		"tips": [{
 			"date": "2018-01-05",
-			"subject": "The 'Extract class...' refactoring (from Alt+Shift+T) extracts a group of fields into a separate class and replaces all occurrences to fit the new structure. See example. #EclipseTips https://t.co/tEI7ic7C1g",
+			"subject": " 'Extract class...'  重构(来自Alt + Shift + T)将一组字段提取到一个单独的类中，并替换所有出现以适应新结构。 见例子。 #EclipseTips https://t.co/tEI7ic7C1g",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/949238007051235328/949238007051235328.html"
 		}, {
 			"date": "2018-01-09",
-			"subject": "Use the 'new' template for quick object creation. #speed #EclipseTips https://t.co/yI33PEmfkm",
+			"subject": "使用 'new' 模板快速创建对象。 #speed #EclipseTips https://t.co/yI33PEmfkm",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/950773930775793664/950773930775793664.html"
 		}, {
 			"date": "2017-12-15",
-			"subject": "You don't need to know which module contains a class in #Java9 Ctrl-1 can identify the module and add it for you! #EclipseTips https://t.co/OGjB3V7vJJ",
+			"subject": "你不需要知道 #Java9 中哪个模块包含一个类，Ctrl-1 可以识别模块并为你添加它! #EclipseTips https://t.co/OGjB3V7vJJ",
 			"aspect-ratio": "2.4",
 			"url": "${baseUrl}/content/941624342282108929/941624342282108929.html"
 		}, {
 			"date": "2017-12-14",
-			"subject": "Need to check for null? Use the ifnull template and don't slow down! #productivity #EclipseTips https://t.co/FrDemG6rPS",
+			"subject": "需要检查null吗? 使用ifnull模板，不要放慢速度! #productivity #EclipseTips https://t.co/FrDemG6rPS",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/941264226940850177/941264226940850177.html"
 		}, {
 			"date": "2017-11-06",
-			"subject": "You can directly use a CSV file as a parameter source in #JUnit5 parameterized tests. Very handy to feed a large nr of cases! #EclipseTips https://t.co/FDMPAzR2em",
+			"subject": "您可以直接在 #JUnit5 参数化测试中使用CSV文件作为参数源。 非常方便饲喂大量的病例! #EclipseTips https://t.co/FDMPAzR2em",
 			"aspect-ratio": "2.2",
 			"url": "${baseUrl}/content/927527210772258816/927527210772258816.html"
 		}, {
 			"date": "2017-11-16",
-			"subject": "Enjoy the Edit -> Block Selection (Alt+Shift+A) while working on your #Java9 https://t.co/txMxd39pJ0 #EclipseTips https://t.co/X63mh9uDd7",
+			"subject": "享受 编辑 -> 块选择 (Alt+Shift+A) , 在使用 #Java9 https://t.co/txMxd39pJ0 #EclipseTips https://t.co/X63mh9uDd7",
 			"aspect-ratio": "1.7",
 			"url": "${baseUrl}/content/931124796502536192/931124796502536192.html"
 		}, {
 			"date": "2017-10-18",
-			"subject": "In #JUnit5 parameterized tests also accept CSV literals (and files) as a source of parameters. Quite handy to feed your tests! #EclipseTips https://t.co/T7Lphj5eyl",
+			"subject": "在 #JUnit5 参数化测试中，还接受CSV文字(和文件)作为参数源。 非常方便您的测试! #EclipseTips https://t.co/T7Lphj5eyl",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/920608130274381825/920608130274381825.html"
 		}, {
 			"date": "2017-09-19",
-			"subject": "You can use methods returning #Java streams as a source of parameters in #JUnit5 tests. Use @MethodSource as shown below. #EclipseTips https://t.co/Jr1o00YEof",
+			"subject": "您可以使用返回 #Java streams 的方法作为 #JUnit5 测试中的参数源。 使用 @MethodSource ，如下所示。 #EclipseTips https://t.co/Jr1o00YEof",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/910089046600425472/910089046600425472.html"
 		}, {
@@ -53,57 +53,57 @@
 			"url": "${baseUrl}/content/902851499503607808/902851499503607808.html"
 		}, {
 			"date": "2017-07-24",
-			"subject": "Use the 'Quick Access' box (Ctrl+3) extensively to be more productive. Just type what you want and you'll probably find it. #EclipseTips https://t.co/KQB2i4BuDU",
+			"subject": "广泛使用“快速访问”框 (Ctrl+3)  可提高工作效率。 只需键入您想要的内容，您就可以找到它。 #EclipseTips https://t.co/KQB2i4BuDU",
 			"aspect-ratio": "1.6",
 			"url": "${baseUrl}/content/889435990976323584/889435990976323584.html"
 		}, {
 			"date": "2017-07-11",
-			"subject": "Always safer to 'Invert equals' on literal strings in order to avoid the horrible NullPointerException! Ctrl+1 does it for you. #EclipseTips https://t.co/DmjMWgiySM",
+			"subject": "总是更安全的文字字符串'反转等于'，以避免可怕的 NullPointerException !Ctrl+1 为您完成。 #EclipseTips https://t.co/DmjMWgiySM",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/884689449917050880/884689449917050880.html"
 		}, {
 			"date": "2017-07-21",
-			"subject": "Private methods in interfaces will be allowed in #Java9. Here's an example use case with a shared 'worker' method. #EclipseTips https://t.co/cdRcETAmMV",
+			"subject": " #Java9 中允许接口中的私有方法。 这是一个带有共享'worker'方法的示例用例。 #EclipseTips https://t.co/cdRcETAmMV",
 			"aspect-ratio": "1.2",
 			"url": "${baseUrl}/content/888360858119745536/888360858119745536.html"
 		}, {
 			"date": "2017-06-13",
-			"subject": "Whatever element you have selected, code or item, 'Show in...' (Alt+Shift+W) command pops up useful views for various details! #EclipseTips https://t.co/6GVpSPKOdT",
+			"subject": "无论您选择了什么元素，代码或项目，“在...中显示” (Alt+Shift+W) 命令都会弹出有用的视图以获取各种细节! #EclipseTips https://t.co/6GVpSPKOdT",
 			"aspect-ratio": "1.2",
 			"url": "${baseUrl}/content/874600197195796482/874600197195796482.html"
 		}, {
 			"date": "2017-06-01",
-			"subject": "Often you want to move lines up/down. Press Alt+Up/Dn to move the lines along with the cursor. Indenting is corrected for you. #EclipseTips https://t.co/5tnaajebZf",
+			"subject": "通常你想要上下移动线。 按Alt +向上/向右移动线条和光标。 缩进是为您纠正的。 #EclipseTips https://t.co/5tnaajebZf",
 			"aspect-ratio": "1.3",
 			"url": "${baseUrl}/content/870170548722184192/870170548722184192.html"
 		}, {
 			"date": "2017-05-04",
-			"subject": "If you want to know where and how a variable was declared just press Shift while hovering and you'll get it in-place! #EclipseTips https://t.co/4Vpz4JKW0w",
+			"subject": "如果你想知道变量的声明位置和方式，只需在悬停时按Shift键，你就可以得到它! #EclipseTips https://t.co/4Vpz4JKW0w",
 			"aspect-ratio": "1.8",
 			"url": "${baseUrl}/content/860125970556223489/860125970556223489.html"
 		}, {
 			"date": "2017-05-16",
-			"subject": "Here's our Edit -> Toggle Block Selection tool (or just hit Shift+Alt+A) in action. Very useful! #productivity #EclipseTips https://t.co/myMI2oaLLG",
+			"subject": "这是我们的 编辑 -> 切换块选择工具(或只是按 Shift+Alt+A )。 很有用! #productivity #EclipseTips https://t.co/myMI2oaLLG",
 			"aspect-ratio": "1.5",
 			"url": "${baseUrl}/content/864423629697822720/864423629697822720.html"
 		}, {
 			"date": "2017-04-20",
-			"subject": "The 'enclosing' selection (Alt+Shift+Up/Dn) is a great shortcut. Selects the enclosing structure, e.g. var->if->method->class #EclipseTips https://t.co/joGBu9IzdB",
+			"subject": " '封闭'选择 (Alt+Shift+Up/Dn) 是一个很好的捷径。 选择封闭结构，, 列如. var->if->method->class #EclipseTips https://t.co/joGBu9IzdB",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/855062302655209472/855062302655209472.html"
 		}, {
 			"date": "2017-04-25",
-			"subject": "Ever looked at a #Java method thinking 'what does this one do'? Press Shift while hovering it and it will show implementation in-place! #Tip https://t.co/5Qym5CkcJN",
+			"subject": "曾经看过 #Java 方法思考'这个人做了什么'? 在悬停时按Shift键，它将显示就地执行! #Tip https://t.co/5Qym5CkcJN",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/856867463409041410/856867463409041410.html"
 		}, {
 			"date": "2018-03-22",
-			"subject": "#Java10 is out. Time to play with 'var'. Try it out with @EclipseJavaIDE and its new quick assists (Ctrl+1). https://t.co/iUJcGjV1Ts #EclipseTips https://t.co/HfJqlymzZb",
+			"subject": " #Java10 已经发布了。 是时候玩'var'了。 尝试使用 @EclipseJavaIDE 及其新的快速助手 (Ctrl+1) 。https://t.co/iUJcGjV1Ts #EclipseTips https://t.co/HfJqlymzZb",
 			"aspect-ratio": "4.2",
 			"url": "${baseUrl}/content/976836214857740288/976836214857740288.html"
 		}, {
 			"date": "2018-06-05",
-			"subject": "Code completion",
+			"subject": "代码补全",
 			"aspect-ratio": "4.2",
 			"url": "${baseUrl}/content/codecompletion/codecompletion.html"
 		}]
