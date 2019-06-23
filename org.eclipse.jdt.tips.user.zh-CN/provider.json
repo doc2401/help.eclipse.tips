@@ -8,7 +8,7 @@
 		},
 		"tips": [{
 			"date": "2018-01-05",
-			"subject": " 'Extract class...'  重构(来自Alt + Shift + T)将一组字段提取到一个单独的类中，并替换所有出现以适应新结构。 见例子。 #EclipseTips https://t.co/tEI7ic7C1g",
+			"subject": " 'Extract class...'  重构 (来自 Alt+Shift+T) 将一组字段提取到一个单独的类中，并替换所有出现以适应新结构。 见例子。 #EclipseTips https://t.co/tEI7ic7C1g",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/949238007051235328/949238007051235328.html"
 		}, {
@@ -23,17 +23,17 @@
 			"url": "${baseUrl}/content/941624342282108929/941624342282108929.html"
 		}, {
 			"date": "2017-12-14",
-			"subject": "需要检查null吗? 使用ifnull模板，不要放慢速度! #productivity #EclipseTips https://t.co/FrDemG6rPS",
+			"subject": "需要检查null吗? 使用 ifnull 模板，不要放慢速度! #productivity #EclipseTips https://t.co/FrDemG6rPS",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/941264226940850177/941264226940850177.html"
 		}, {
 			"date": "2017-11-06",
-			"subject": "您可以直接在 #JUnit5 参数化测试中使用CSV文件作为参数源。 非常方便饲喂大量的病例! #EclipseTips https://t.co/FDMPAzR2em",
+			"subject": "您可以直接在 #JUnit5 参数化测试中使用CSV文件作为参数源。 非常方便提供大量的案例! #EclipseTips https://t.co/FDMPAzR2em",
 			"aspect-ratio": "2.2",
 			"url": "${baseUrl}/content/927527210772258816/927527210772258816.html"
 		}, {
 			"date": "2017-11-16",
-			"subject": "享受 编辑 -> 块选择 (Alt+Shift+A) , 在使用 #Java9 https://t.co/txMxd39pJ0 #EclipseTips https://t.co/X63mh9uDd7",
+			"subject": "享受 Edit -> Block Selection (Alt+Shift+A) , 在使用 #Java9 https://t.co/txMxd39pJ0 #EclipseTips https://t.co/X63mh9uDd7",
 			"aspect-ratio": "1.7",
 			"url": "${baseUrl}/content/931124796502536192/931124796502536192.html"
 		}, {
@@ -48,7 +48,7 @@
 			"url": "${baseUrl}/content/910089046600425472/910089046600425472.html"
 		}, {
 			"date": "2017-08-30",
-			"subject": "Put your cursor on a class name (or method) and press Shift+F2 to jump to the web version of your library's Javadoc! #EclipseTips https://t.co/vpUavzUgk6",
+			"subject": "将光标放在类名（或方法）上，然后按 Shift+F2 跳转到库的 Javadoc 的Web版本！ #EclipseTips https://t.co/vpUavzUgk6",
 			"aspect-ratio": "1.7",
 			"url": "${baseUrl}/content/902851499503607808/902851499503607808.html"
 		}, {
@@ -58,7 +58,7 @@
 			"url": "${baseUrl}/content/889435990976323584/889435990976323584.html"
 		}, {
 			"date": "2017-07-11",
-			"subject": "总是更安全的文字字符串'反转等于'，以避免可怕的 NullPointerException !Ctrl+1 为您完成。 #EclipseTips https://t.co/DmjMWgiySM",
+			"subject": "总是更安全的 'Invert equals' 文字字符串 ，以避免可怕的 NullPointerException ! Ctrl+1 为您完成。 #EclipseTips https://t.co/DmjMWgiySM",
 			"aspect-ratio": "1.9",
 			"url": "${baseUrl}/content/884689449917050880/884689449917050880.html"
 		}, {
@@ -68,32 +68,32 @@
 			"url": "${baseUrl}/content/888360858119745536/888360858119745536.html"
 		}, {
 			"date": "2017-06-13",
-			"subject": "无论您选择了什么元素，代码或项目，“在...中显示” (Alt+Shift+W) 命令都会弹出有用的视图以获取各种细节! #EclipseTips https://t.co/6GVpSPKOdT",
+			"subject": "无论您选择了什么元素，代码或项目，'Show in...' (Alt+Shift+W)  命令都会弹出有用的视图以获取各种细节! #EclipseTips https://t.co/6GVpSPKOdT",
 			"aspect-ratio": "1.2",
 			"url": "${baseUrl}/content/874600197195796482/874600197195796482.html"
 		}, {
 			"date": "2017-06-01",
-			"subject": "通常你想要上下移动线。 按Alt +向上/向右移动线条和光标。 缩进是为您纠正的。 #EclipseTips https://t.co/5tnaajebZf",
+			"subject": "通常你想要上下移动行。 按 Alt+Up/Dn 移动线条和光标。 缩进是为您纠正的。 #EclipseTips https://t.co/5tnaajebZf",
 			"aspect-ratio": "1.3",
 			"url": "${baseUrl}/content/870170548722184192/870170548722184192.html"
 		}, {
 			"date": "2017-05-04",
-			"subject": "如果你想知道变量的声明位置和方式，只需在悬停时按Shift键，你就可以得到它! #EclipseTips https://t.co/4Vpz4JKW0w",
+			"subject": "如果你想知道变量的声明位置和方式，只需在悬停时按 Shift 键，你就可以得到它! #EclipseTips https://t.co/4Vpz4JKW0w",
 			"aspect-ratio": "1.8",
 			"url": "${baseUrl}/content/860125970556223489/860125970556223489.html"
 		}, {
 			"date": "2017-05-16",
-			"subject": "这是我们的 编辑 -> 切换块选择工具(或只是按 Shift+Alt+A )。 很有用! #productivity #EclipseTips https://t.co/myMI2oaLLG",
+			"subject": "这是我们的 Edit -> Toggle Block Selection tool (或只是按 Shift+Alt+A )。 很有用! #productivity #EclipseTips https://t.co/myMI2oaLLG",
 			"aspect-ratio": "1.5",
 			"url": "${baseUrl}/content/864423629697822720/864423629697822720.html"
 		}, {
 			"date": "2017-04-20",
-			"subject": " '封闭'选择 (Alt+Shift+Up/Dn) 是一个很好的捷径。 选择封闭结构，, 列如. var->if->method->class #EclipseTips https://t.co/joGBu9IzdB",
+			"subject": " 'enclosing' selection (Alt+Shift+Up/Dn) 是一个很好的捷径。 选择封闭结构 , 列如 , var->if->method->class #EclipseTips https://t.co/joGBu9IzdB",
 			"aspect-ratio": "2.0",
 			"url": "${baseUrl}/content/855062302655209472/855062302655209472.html"
 		}, {
 			"date": "2017-04-25",
-			"subject": "曾经看过 #Java 方法思考'这个人做了什么'? 在悬停时按Shift键，它将显示就地执行! #Tip https://t.co/5Qym5CkcJN",
+			"subject": "曾经看过 #Java 方法思考'这个做了什么'? 在悬停时按Shift键，它将就地显示实现! #Tip https://t.co/5Qym5CkcJN",
 			"aspect-ratio": "2.1",
 			"url": "${baseUrl}/content/856867463409041410/856867463409041410.html"
 		}, {
